@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blocks", "Blocks\Blocks.csproj", "{FD8A6254-4CA0-4516-A475-9E1C219ED3DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zigzag-Matrix", "Zigzag-Matrix\Zigzag-Matrix.csproj", "{EAF4BF71-6C55-49C1-A207-5B6483548D33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Blocks.Tests", "Blocks.Tests", "{4CF43133-3646-45E1-9F11-41B15A06B2F7}"
+	ProjectSection(SolutionItems) = preProject
+		Blocks\Tests\test.000.001.in.txt = Blocks\Tests\test.000.001.in.txt
+		Blocks\Tests\test.000.001.out.txt = Blocks\Tests\test.000.001.out.txt
+		Blocks\Tests\test.000.002.in.txt = Blocks\Tests\test.000.002.in.txt
+		Blocks\Tests\test.000.002.out.txt = Blocks\Tests\test.000.002.out.txt
+		Blocks\Tests\test.000.003.in.txt = Blocks\Tests\test.000.003.in.txt
+		Blocks\Tests\test.000.003.out.txt = Blocks\Tests\test.000.003.out.txt
+		Blocks\Tests\test.000.004.in.txt = Blocks\Tests\test.000.004.in.txt
+		Blocks\Tests\test.000.004.out.txt = Blocks\Tests\test.000.004.out.txt
+		Blocks\Tests\test.000.005.in.txt = Blocks\Tests\test.000.005.in.txt
+		Blocks\Tests\test.000.005.out.txt = Blocks\Tests\test.000.005.out.txt
+		Blocks\Tests\test.000.006.in.txt = Blocks\Tests\test.000.006.in.txt
+		Blocks\Tests\test.000.006.out.txt = Blocks\Tests\test.000.006.out.txt
+		Blocks\Tests\test.000.007.in.txt = Blocks\Tests\test.000.007.in.txt
+		Blocks\Tests\test.000.007.out.txt = Blocks\Tests\test.000.007.out.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zigzag-Matrix.Tests", "Zigzag-Matrix.Tests", "{C21DDD17-022E-44AE-B4D7-F8AB63C14F95}"
+	ProjectSection(SolutionItems) = preProject
+		Zigzag-Matrix\Tests\test.000.001.in.txt = Zigzag-Matrix\Tests\test.000.001.in.txt
+		Zigzag-Matrix\Tests\test.000.001.out.txt = Zigzag-Matrix\Tests\test.000.001.out.txt
+		Zigzag-Matrix\Tests\test.000.002.in.txt = Zigzag-Matrix\Tests\test.000.002.in.txt
+		Zigzag-Matrix\Tests\test.000.002.out.txt = Zigzag-Matrix\Tests\test.000.002.out.txt
+		Zigzag-Matrix\Tests\test.000.003.in.txt = Zigzag-Matrix\Tests\test.000.003.in.txt
+		Zigzag-Matrix\Tests\test.000.003.out.txt = Zigzag-Matrix\Tests\test.000.003.out.txt
+		Zigzag-Matrix\Tests\test.001.in.txt = Zigzag-Matrix\Tests\test.001.in.txt
+		Zigzag-Matrix\Tests\test.001.out.txt = Zigzag-Matrix\Tests\test.001.out.txt
+		Zigzag-Matrix\Tests\test.002.in.txt = Zigzag-Matrix\Tests\test.002.in.txt
+		Zigzag-Matrix\Tests\test.002.out.txt = Zigzag-Matrix\Tests\test.002.out.txt
+		Zigzag-Matrix\Tests\test.003.in.txt = Zigzag-Matrix\Tests\test.003.in.txt
+		Zigzag-Matrix\Tests\test.003.out.txt = Zigzag-Matrix\Tests\test.003.out.txt
+		Zigzag-Matrix\Tests\test.004.in.txt = Zigzag-Matrix\Tests\test.004.in.txt
+		Zigzag-Matrix\Tests\test.004.out.txt = Zigzag-Matrix\Tests\test.004.out.txt
+		Zigzag-Matrix\Tests\test.005.in.txt = Zigzag-Matrix\Tests\test.005.in.txt
+		Zigzag-Matrix\Tests\test.005.out.txt = Zigzag-Matrix\Tests\test.005.out.txt
+		Zigzag-Matrix\Tests\test.006.in.txt = Zigzag-Matrix\Tests\test.006.in.txt
+		Zigzag-Matrix\Tests\test.006.out.txt = Zigzag-Matrix\Tests\test.006.out.txt
+		Zigzag-Matrix\Tests\test.007.in.txt = Zigzag-Matrix\Tests\test.007.in.txt
+		Zigzag-Matrix\Tests\test.007.out.txt = Zigzag-Matrix\Tests\test.007.out.txt
+		Zigzag-Matrix\Tests\test.008.in.txt = Zigzag-Matrix\Tests\test.008.in.txt
+		Zigzag-Matrix\Tests\test.008.out.txt = Zigzag-Matrix\Tests\test.008.out.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8A6254-4CA0-4516-A475-9E1C219ED3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8A6254-4CA0-4516-A475-9E1C219ED3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8A6254-4CA0-4516-A475-9E1C219ED3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8A6254-4CA0-4516-A475-9E1C219ED3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF4BF71-6C55-49C1-A207-5B6483548D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF4BF71-6C55-49C1-A207-5B6483548D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF4BF71-6C55-49C1-A207-5B6483548D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF4BF71-6C55-49C1-A207-5B6483548D33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

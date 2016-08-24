@@ -1,0 +1,5 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Zigzag-Matrix\bin\Debug\Zigzag-Matrix.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Zigzag-Matrix\bin\Debug\Zigzag-Matrix.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Zigzag-Matrix\obj\Debug\Zigzag-Matrix.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Zigzag-Matrix\obj\Debug\Zigzag-Matrix.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Zigzag-Matrix\obj\Debug\Zigzag-Matrix.pdb

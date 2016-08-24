@@ -1,0 +1,6 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\02.Guitar\bin\Debug\02.Guitar.exe.config
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\02.Guitar\bin\Debug\02.Guitar.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\02.Guitar\bin\Debug\02.Guitar.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\02.Guitar\obj\Debug\02.Guitar.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\02.Guitar\obj\Debug\02.Guitar.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\02.Guitar\obj\Debug\02.Guitar.pdb

@@ -1,0 +1,1 @@
+rect22 < rect35 < rect6 < rect31

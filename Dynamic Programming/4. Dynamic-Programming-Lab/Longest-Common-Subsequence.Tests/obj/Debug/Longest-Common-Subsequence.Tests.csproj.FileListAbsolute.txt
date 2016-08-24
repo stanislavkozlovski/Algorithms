@@ -1,0 +1,17 @@
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.Tests.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.Tests.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.exe
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.csprojResolveAssemblyReference.cache
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.Tests.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.Tests.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Longest-Common-Subsequence.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Common-Subsequence.Tests\obj\Debug\Longest-Common-Subsequence.Tests.pdb

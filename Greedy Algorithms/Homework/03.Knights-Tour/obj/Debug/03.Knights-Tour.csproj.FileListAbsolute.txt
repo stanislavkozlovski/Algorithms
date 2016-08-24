@@ -1,0 +1,6 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\03.Knights-Tour\bin\Debug\03.Knights-Tour.exe.config
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\03.Knights-Tour\bin\Debug\03.Knights-Tour.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\03.Knights-Tour\bin\Debug\03.Knights-Tour.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\03.Knights-Tour\obj\Debug\03.Knights-Tour.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\03.Knights-Tour\obj\Debug\03.Knights-Tour.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\03.Knights-Tour\obj\Debug\03.Knights-Tour.pdb

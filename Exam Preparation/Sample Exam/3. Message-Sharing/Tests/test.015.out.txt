@@ -1,0 +1,2 @@
+All people reached in 3 steps
+People at last step: Person107, Person235, Person239, Person349, Person400

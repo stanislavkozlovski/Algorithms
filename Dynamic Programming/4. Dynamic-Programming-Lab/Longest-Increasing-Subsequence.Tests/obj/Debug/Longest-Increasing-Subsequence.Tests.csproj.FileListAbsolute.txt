@@ -1,0 +1,8 @@
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.exe
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.csprojResolveAssemblyReference.cache
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.pdb

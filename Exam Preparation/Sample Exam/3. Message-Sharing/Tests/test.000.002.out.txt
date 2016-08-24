@@ -1,0 +1,2 @@
+All people reached in 3 steps
+People at last step: Ivan

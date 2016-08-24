@@ -1,0 +1,6 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\04.Representing-a-Sum-with-Unlimited-Counts\bin\Debug\04.Representing-a-Sum-with-Unlimited-Counts.exe.config
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\04.Representing-a-Sum-with-Unlimited-Counts\bin\Debug\04.Representing-a-Sum-with-Unlimited-Counts.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\04.Representing-a-Sum-with-Unlimited-Counts\bin\Debug\04.Representing-a-Sum-with-Unlimited-Counts.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\04.Representing-a-Sum-with-Unlimited-Counts\obj\Debug\04.Representing-a-Sum-with-Unlimited-Counts.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\04.Representing-a-Sum-with-Unlimited-Counts\obj\Debug\04.Representing-a-Sum-with-Unlimited-Counts.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\04.Representing-a-Sum-with-Unlimited-Counts\obj\Debug\04.Representing-a-Sum-with-Unlimited-Coins.csprojResolveAssemblyReference.cache

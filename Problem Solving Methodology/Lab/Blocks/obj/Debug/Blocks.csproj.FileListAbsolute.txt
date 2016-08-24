@@ -1,0 +1,5 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Blocks\bin\Debug\Blocks.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Blocks\bin\Debug\Blocks.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Blocks\obj\Debug\Blocks.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Blocks\obj\Debug\Blocks.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Lab\Blocks\obj\Debug\Blocks.pdb

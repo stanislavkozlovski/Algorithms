@@ -1,0 +1,5 @@
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\03.Combinations_with_Repetitions\bin\Debug\03.Combinations_with_Repetitions.exe.config
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\03.Combinations_with_Repetitions\bin\Debug\03.Combinations_with_Repetitions.exe
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\03.Combinations_with_Repetitions\bin\Debug\03.Combinations_with_Repetitions.pdb
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\03.Combinations_with_Repetitions\obj\Debug\03.Combinations_with_Repetitions.exe
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\03.Combinations_with_Repetitions\obj\Debug\03.Combinations_with_Repetitions.pdb

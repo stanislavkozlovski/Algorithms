@@ -1,0 +1,2 @@
+All people reached in 1 steps
+People at last step: Gosho, Ivan, Pesho

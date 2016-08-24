@@ -1,0 +1,2 @@
+All people reached in 2 steps
+People at last step: Person1, Person100, Person19, Person20, Person22, Person24, Person25, Person3, Person32, Person33, Person36, Person4, Person44, Person48, Person50, Person52, Person53, Person63, Person75, Person76, Person77, Person79, Person82, Person84, Person86, Person88, Person89, Person99

@@ -1,0 +1,2 @@
+1 bridge found
+X X 3 3 X X

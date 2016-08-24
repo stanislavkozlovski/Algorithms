@@ -1,0 +1,17 @@
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.Tests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.Tests.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\DijkstraPriorityQueue.Tests.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.Tests.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.Tests.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\bin\Debug\Dijkstra.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\obj\Debug\DijkstraPriorityQueue.Tests.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Dijkstra with priority queue\DijkstraPriorityQueue.Tests\obj\Debug\Dijkstra.Tests.pdb

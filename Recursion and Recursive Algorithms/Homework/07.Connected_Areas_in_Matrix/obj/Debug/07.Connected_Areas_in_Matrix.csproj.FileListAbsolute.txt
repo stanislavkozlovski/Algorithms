@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\07.Connected_Areas_in_Matrix\bin\Debug\07.Connected_Areas_in_Matrix.exe.config
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\07.Connected_Areas_in_Matrix\bin\Debug\07.Connected_Areas_in_Matrix.exe
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\07.Connected_Areas_in_Matrix\bin\Debug\07.Connected_Areas_in_Matrix.pdb
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\07.Connected_Areas_in_Matrix\obj\Debug\07.Connected_Areas_in_Matrix.exe
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\07.Connected_Areas_in_Matrix\obj\Debug\07.Connected_Areas_in_Matrix.pdb
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\07.Connected_Areas_in_Matrix\obj\Debug\07.Connected_Areas_in_Matrix.csprojResolveAssemblyReference.cache

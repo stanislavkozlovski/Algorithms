@@ -1,0 +1,2 @@
+All people reached in 1 steps
+People at last step: Adi, Alex, Diana, Didi, Gogo, Ivan, Katya, Kiril, Magy, Maria, Mridul, Sahil

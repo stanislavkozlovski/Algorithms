@@ -1,0 +1,6 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\01.Fractional-Knapsack-Problem\bin\Debug\01.Fractional-Knapsack-Problem.exe.config
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\01.Fractional-Knapsack-Problem\bin\Debug\01.Fractional-Knapsack-Problem.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\01.Fractional-Knapsack-Problem\bin\Debug\01.Fractional-Knapsack-Problem.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\01.Fractional-Knapsack-Problem\obj\Debug\01.Fractional-Knapsack-Problem.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\01.Fractional-Knapsack-Problem\obj\Debug\01.Fractional-Knapsack-Problem.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\01.Fractional-Knapsack-Problem\obj\Debug\01.Fractional-Knapsack-Problem.pdb

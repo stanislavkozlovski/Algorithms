@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Extend-a-Cable-Network", "01.Extend-a-Cable-Network\01.Extend-a-Cable-Network.csproj", "{AFD5EDA5-840E-4D3B-8C5F-89994839FAA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Modified-Kruskal-Algorithm", "02.Modified-Kruskal-Algorithm\02.Modified-Kruskal-Algorithm.csproj", "{B70DBC95-CF14-403D-97BE-5D5E156ECF2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Most-Reliable-Path", "3.Most-Reliable-Path\03.Most-Reliable-Path.csproj", "{9B47445C-2C3B-49F9-85E7-04DCB3762325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Shortest-Paths-between-All-Pairs-Nodes", "04.Shortest-Paths-between-All-Pairs-Nodes\04.Shortest-Paths-between-All-Pairs-Nodes.csproj", "{4F04B5B1-8B5F-4015-8597-5C2DF661FC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Shortest-Paths-with-Negative-Edges", "05.Shortest-Paths-with-Negative-Edges\05.Shortest-Paths-with-Negative-Edges.csproj", "{FF64E63B-C90E-4BBC-B3C9-289A775C53F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD5EDA5-840E-4D3B-8C5F-89994839FAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD5EDA5-840E-4D3B-8C5F-89994839FAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD5EDA5-840E-4D3B-8C5F-89994839FAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD5EDA5-840E-4D3B-8C5F-89994839FAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70DBC95-CF14-403D-97BE-5D5E156ECF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70DBC95-CF14-403D-97BE-5D5E156ECF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70DBC95-CF14-403D-97BE-5D5E156ECF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70DBC95-CF14-403D-97BE-5D5E156ECF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B47445C-2C3B-49F9-85E7-04DCB3762325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B47445C-2C3B-49F9-85E7-04DCB3762325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B47445C-2C3B-49F9-85E7-04DCB3762325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B47445C-2C3B-49F9-85E7-04DCB3762325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F04B5B1-8B5F-4015-8597-5C2DF661FC6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F04B5B1-8B5F-4015-8597-5C2DF661FC6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F04B5B1-8B5F-4015-8597-5C2DF661FC6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F04B5B1-8B5F-4015-8597-5C2DF661FC6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF64E63B-C90E-4BBC-B3C9-289A775C53F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF64E63B-C90E-4BBC-B3C9-289A775C53F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF64E63B-C90E-4BBC-B3C9-289A775C53F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF64E63B-C90E-4BBC-B3C9-289A775C53F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

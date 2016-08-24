@@ -1,0 +1,3 @@
+People: Kiril, Nakov, Alex, Stefan, Ivan, Magy, Mustafa, Mridul, Gogo, Arif, Sahil, Steve, Prakash, Misho, Didi, Maria, Diana, Petya, Katya, Adi
+Connections: Mridul - Arif, Adi - Nakov, Steve - Prakash, Steve - Kiril, Kiril - Stefan, Adi - Mustafa, Stefan - Ivan, Misho - Ivan, Didi - Misho, Stefan - Didi, Nakov - Gogo, Maria - Didi, Petya - Katya, Magy - Nakov, Katya - Didi, Petya - Didi, Diana - Petya, Diana - Maria, Maria - Stefan, Diana - Didi, Adi - Gogo, Mustafa - Gogo, Alex - Petya, Prakash - Sahil
+Start: Petya, Arif, Magy, Katya, Nakov, Mustafa, Alex

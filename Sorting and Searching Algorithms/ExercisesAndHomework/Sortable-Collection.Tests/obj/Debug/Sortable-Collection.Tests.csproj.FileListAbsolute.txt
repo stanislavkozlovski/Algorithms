@@ -1,0 +1,14 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.exe
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.csprojResolveAssemblyReference.cache
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Sorting and Searching Algorithms\Exercises\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.pdb

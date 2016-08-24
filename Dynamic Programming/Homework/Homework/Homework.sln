@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BinomialCoefficients", "01.BinomialCoefficients\01.BinomialCoefficients.csproj", "{28079BF4-F35E-4FFB-9F37-AE1606076654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Longest-Zigzag-Subsequence", "02.Longest-Zigzag-Subsequence\02.Longest-Zigzag-Subsequence.csproj", "{ADA4D5FA-2625-480B-8824-656634AA99F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DividingPresents", "03.DividingPresents\03.DividingPresents.csproj", "{D1B1F5D2-38A5-4E22-B688-A85B5C847B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Representing-a-Sum-with-Unlimited-Coins", "04.Representing-a-Sum-with-Unlimited-Counts\04.Representing-a-Sum-with-Unlimited-Coins.csproj", "{519ADF4F-F8A2-475A-9984-1EC0845E3C0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Representing-a-Sum-with-Limited-Coins", "05.Representing-a-Sum-with-Limited-Coins\05.Representing-a-Sum-with-Limited-Coins.csproj", "{39F01C70-6A95-47B2-977D-43D02489315A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ConnectingCables", "06.ConnectingCables\06.ConnectingCables.csproj", "{B94A32F1-A9C0-4025-ABD1-F499648DEB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28079BF4-F35E-4FFB-9F37-AE1606076654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28079BF4-F35E-4FFB-9F37-AE1606076654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28079BF4-F35E-4FFB-9F37-AE1606076654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28079BF4-F35E-4FFB-9F37-AE1606076654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA4D5FA-2625-480B-8824-656634AA99F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA4D5FA-2625-480B-8824-656634AA99F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA4D5FA-2625-480B-8824-656634AA99F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA4D5FA-2625-480B-8824-656634AA99F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B1F5D2-38A5-4E22-B688-A85B5C847B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B1F5D2-38A5-4E22-B688-A85B5C847B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B1F5D2-38A5-4E22-B688-A85B5C847B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B1F5D2-38A5-4E22-B688-A85B5C847B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519ADF4F-F8A2-475A-9984-1EC0845E3C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519ADF4F-F8A2-475A-9984-1EC0845E3C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519ADF4F-F8A2-475A-9984-1EC0845E3C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519ADF4F-F8A2-475A-9984-1EC0845E3C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F01C70-6A95-47B2-977D-43D02489315A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F01C70-6A95-47B2-977D-43D02489315A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F01C70-6A95-47B2-977D-43D02489315A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F01C70-6A95-47B2-977D-43D02489315A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94A32F1-A9C0-4025-ABD1-F499648DEB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94A32F1-A9C0-4025-ABD1-F499648DEB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94A32F1-A9C0-4025-ABD1-F499648DEB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94A32F1-A9C0-4025-ABD1-F499648DEB10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

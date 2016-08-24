@@ -1,0 +1,6 @@
+Europe: 0 60 70 0
+Italy: 5 30 30 20
+Austria: 35 20 60 10
+France: 35 40 60 30
+Alps: 20 50 50 15
+End

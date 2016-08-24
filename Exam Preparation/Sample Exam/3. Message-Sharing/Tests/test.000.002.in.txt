@@ -1,0 +1,3 @@
+People: Kiril, Stefan, Ivan, Mridul, Arif, Sahil, Steve, Prakash, Misho, Didi, Maria, Diana, Petya, Katya
+Connections: Mridul - Arif, Steve - Prakash, Steve - Kiril, Kiril - Stefan, Stefan - Ivan, Misho - Ivan, Didi - Misho, Stefan - Didi, Maria - Didi, Petya - Katya, Katya - Didi, Petya - Didi, Diana - Petya, Diana - Maria, Maria - Stefan, Diana - Didi
+Start: Petya, Arif, Sahil, Steve

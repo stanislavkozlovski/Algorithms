@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\01.RecursiveArraySum\bin\Debug\01.RecursiveArraySum.exe.config
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\01.RecursiveArraySum\bin\Debug\01.RecursiveArraySum.exe
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\01.RecursiveArraySum\bin\Debug\01.RecursiveArraySum.pdb
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\01.RecursiveArraySum\obj\Debug\01.RecursiveArraySum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\01.RecursiveArraySum\obj\Debug\01.RecursiveArraySum.exe
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\01.RecursiveArraySum\obj\Debug\01.RecursiveArraySum.pdb

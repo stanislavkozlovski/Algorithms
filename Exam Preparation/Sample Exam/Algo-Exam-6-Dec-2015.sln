@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sequences-оf-Limited-Sum", "1. Sequences-of-Limited-Sum\1. Sequences-оf-Limited-Sum.csproj", "{0F04AAF5-068F-42A7-81A1-6DCAD0339DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Message-Sharing", "3. Message-Sharing\3. Message-Sharing.csproj", "{46A49584-B76A-4E60-98E7-81EAABAEF0F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MessageSharingTestGenerator", "3. Message-Sharing\3. MessageSharingTestGenerator.csproj", "{355F7FE3-D3CE-4928-83EE-8C2DE040F7C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Nested-Rectangles", "4. Nested-Rectangles\4. Nested-Rectangles.csproj", "{98D4CE93-D752-4A09-8E12-CE52B94AA0C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. NestedRectanglesGenerator", "4. Nested-Rectangles\4. NestedRectanglesGenerator.csproj", "{E9346E21-F7B2-48BC-8B51-6DD26F5E8343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Non-Crossing-Bridges", "2. Non-Crossing-Bridges\2. Non-Crossing-Bridges.csproj", "{7BE4272F-D86C-4CDB-9ABB-30389C2F506D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F04AAF5-068F-42A7-81A1-6DCAD0339DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F04AAF5-068F-42A7-81A1-6DCAD0339DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F04AAF5-068F-42A7-81A1-6DCAD0339DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F04AAF5-068F-42A7-81A1-6DCAD0339DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A49584-B76A-4E60-98E7-81EAABAEF0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A49584-B76A-4E60-98E7-81EAABAEF0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A49584-B76A-4E60-98E7-81EAABAEF0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A49584-B76A-4E60-98E7-81EAABAEF0F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355F7FE3-D3CE-4928-83EE-8C2DE040F7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355F7FE3-D3CE-4928-83EE-8C2DE040F7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355F7FE3-D3CE-4928-83EE-8C2DE040F7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355F7FE3-D3CE-4928-83EE-8C2DE040F7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98D4CE93-D752-4A09-8E12-CE52B94AA0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D4CE93-D752-4A09-8E12-CE52B94AA0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D4CE93-D752-4A09-8E12-CE52B94AA0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D4CE93-D752-4A09-8E12-CE52B94AA0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9346E21-F7B2-48BC-8B51-6DD26F5E8343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9346E21-F7B2-48BC-8B51-6DD26F5E8343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9346E21-F7B2-48BC-8B51-6DD26F5E8343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9346E21-F7B2-48BC-8B51-6DD26F5E8343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE4272F-D86C-4CDB-9ABB-30389C2F506D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE4272F-D86C-4CDB-9ABB-30389C2F506D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE4272F-D86C-4CDB-9ABB-30389C2F506D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE4272F-D86C-4CDB-9ABB-30389C2F506D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+Number of blocks: 6
+ABCD
+ABDC
+ACBD
+ACDB
+ADBC
+ADCB

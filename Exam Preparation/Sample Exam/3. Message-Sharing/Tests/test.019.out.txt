@@ -1,0 +1,2 @@
+All people reached in 2 steps
+People at last step: Person189, Person204, Person24, Person277, Person354, Person372, Person382, Person485

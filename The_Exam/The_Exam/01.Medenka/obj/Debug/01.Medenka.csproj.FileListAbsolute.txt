@@ -1,0 +1,6 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\01.Medenka\bin\Debug\01.Medenka.exe.config
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\01.Medenka\bin\Debug\01.Medenka.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\01.Medenka\bin\Debug\01.Medenka.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\01.Medenka\obj\Debug\01.Medenka.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\01.Medenka\obj\Debug\01.Medenka.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\01.Medenka\obj\Debug\01.Medenka.pdb

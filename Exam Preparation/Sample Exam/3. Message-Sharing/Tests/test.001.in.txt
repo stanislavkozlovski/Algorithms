@@ -1,0 +1,3 @@
+People: Pesho, Gosho, Kiro
+Connections: Pesho - Gosho, Gosho - Kiro
+Start: Pesho

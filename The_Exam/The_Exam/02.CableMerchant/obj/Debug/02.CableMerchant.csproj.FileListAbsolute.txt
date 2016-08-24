@@ -1,0 +1,6 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\02.CableMerchant\bin\Debug\02.CableMerchant.exe.config
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\02.CableMerchant\bin\Debug\02.CableMerchant.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\02.CableMerchant\bin\Debug\02.CableMerchant.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\02.CableMerchant\obj\Debug\02.CableMerchant.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\02.CableMerchant\obj\Debug\02.CableMerchant.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\The_Exam\The_Exam\02.CableMerchant\obj\Debug\02.CableMerchant.pdb

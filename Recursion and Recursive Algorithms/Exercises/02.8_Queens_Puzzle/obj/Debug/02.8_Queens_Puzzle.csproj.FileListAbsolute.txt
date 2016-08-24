@@ -1,0 +1,6 @@
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\02.8_Queens_Puzzle\bin\Debug\02.8_Queens_Puzzle.exe.config
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\02.8_Queens_Puzzle\bin\Debug\02.8_Queens_Puzzle.exe
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\02.8_Queens_Puzzle\bin\Debug\02.8_Queens_Puzzle.pdb
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\02.8_Queens_Puzzle\obj\Debug\02.8_Queens_Puzzle.exe
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\02.8_Queens_Puzzle\obj\Debug\02.8_Queens_Puzzle.pdb
+D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Exercises\02.8_Queens_Puzzle\obj\Debug\02.8_Queens_Puzzle.csprojResolveAssemblyReference.cache

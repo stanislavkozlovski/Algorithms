@@ -1,0 +1,17 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Kurskal.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Kurskal.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Kruskal.Tests.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Kruskal.Tests.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Kurskal.exe
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\bin\Debug\Kurskal.pdb
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\obj\Debug\Kruskal.Tests.csprojResolveAssemblyReference.cache
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\obj\Debug\Kruskal.Tests.dll
+C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Exercise\Kruskal.Tests\obj\Debug\Kruskal.Tests.pdb

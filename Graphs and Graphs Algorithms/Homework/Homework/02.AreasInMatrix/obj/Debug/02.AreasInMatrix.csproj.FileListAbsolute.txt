@@ -1,0 +1,6 @@
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Homework\Homework\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.exe.config
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Homework\Homework\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Homework\Homework\02.AreasInMatrix\bin\Debug\02.AreasInMatrix.pdb
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Homework\Homework\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.csprojResolveAssemblyReference.cache
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Homework\Homework\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.exe
+D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Homework\Homework\02.AreasInMatrix\obj\Debug\02.AreasInMatrix.pdb

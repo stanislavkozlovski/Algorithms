@@ -1,0 +1,21 @@
+rect9: 0 5 2 1
+rect8: -3 4 -2 -1
+rect3: 2 5 3 3
+rect2: 0 4 3 2
+rect1: 2 4 3 -1
+rect0: 3 2 4 0
+rect7: 2 -2 3 -5
+rect6: 3 -1 5 -2
+rect5: 4 4 5 0
+rect4: 0 2 5 1
+rect19: 0 2 2 0
+rect18: -3 2 2 -2
+rect11: -3 4 2 3
+rect10: 4 5 5 4
+rect13: 0 2 3 0
+rect12: 3 4 5 -3
+rect15: 3 -1 4 -5
+rect14: 0 5 4 -1
+rect17: 2 -2 3 -4
+rect16: 0 4 3 -1
+End
