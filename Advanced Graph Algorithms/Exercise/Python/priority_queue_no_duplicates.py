@@ -92,9 +92,12 @@ class PriorityQueue:
         self._elements[idx] = new_value
         self._indexes[new_value] = idx
         del self._indexes[old_value]
-        self._heapify_up(idx)
+        if new_value > old_value:
+            self._heapify_down(idx)
+        else:
+            self._heapify_up(idx)
 
-    def re_order_element(self, value):
+    def re_order_decreased_element(self, value):
         """
         Heapifies the given element up.
         This is typically done when the element has been changed, which, if you're calling this method,
@@ -102,3 +105,12 @@ class PriorityQueue:
         """
         idx = self._indexes[value]
         self._heapify_up(idx)
+
+    def re_order_increased_element(self, value):
+        """
+        Heapifies the given element down.
+        This is typically done when the element has been changed, which, if you're calling this method,
+        should be a reference type and should have been changed outside the PriorityQueue
+        """
+        idx = self._indexes[value]
+        self._heapify_down(idx)
