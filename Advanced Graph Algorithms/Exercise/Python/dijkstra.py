@@ -98,41 +98,6 @@ class Graph:
                     previous[conn_node] = current_node
                     pq.re_order_decreased_element(conn_node)
 
-        return previous
+        return previous, {node.value: node.distance_from_start for node in self.nodes.values() if
+                          node.distance_from_start != maxsize}
 
-gr = Graph()
-gr.add_node(0)
-gr.add_node(6)
-gr.add_node(8)
-gr.add_node(5)
-gr.add_node(4)
-gr.add_node(2)
-gr.add_node(11)
-gr.add_node(1)
-gr.add_node(7)
-gr.add_node(9)
-
-gr.add_node(3)
-gr.add_node(10)
-
-gr.add_edge(0, 6, 10)
-gr.add_edge(0, 8, 12)
-gr.add_edge(6, 5, 6)
-gr.add_edge(6, 4, 17)
-gr.add_edge(8, 5, 3)
-gr.add_edge(8, 2, 14)
-gr.add_edge(5, 4, 5)
-gr.add_edge(5, 11, 33)
-gr.add_edge(4, 1, 20)
-gr.add_edge(4, 11, 11)
-gr.add_edge(2, 11, 9)
-gr.add_edge(2, 7, 15)
-gr.add_edge(11, 1, 6)
-gr.add_edge(11, 7, 20)
-gr.add_edge(1, 7, 26)
-gr.add_edge(1, 9, 5)
-gr.add_edge(7, 9, 3)
-gr.add_edge(3, 10, 7)
-
-print(gr.dijkstra(0))
-print(gr.get_node_by_value(9).distance_from_start)
