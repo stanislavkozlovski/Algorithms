@@ -1,6 +1,0 @@
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\02.IterativePermutations\bin\Debug\02.IterativePermutations.exe.config
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\02.IterativePermutations\bin\Debug\02.IterativePermutations.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\02.IterativePermutations\bin\Debug\02.IterativePermutations.pdb
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\02.IterativePermutations\obj\Debug\02.IterativePermutations.csprojResolveAssemblyReference.cache
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\02.IterativePermutations\obj\Debug\02.IterativePermutations.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\02.IterativePermutations\obj\Debug\02.IterativePermutations.pdb

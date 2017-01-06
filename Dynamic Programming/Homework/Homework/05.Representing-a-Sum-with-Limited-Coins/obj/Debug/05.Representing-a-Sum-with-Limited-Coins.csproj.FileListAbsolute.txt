@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\05.Representing-a-Sum-with-Limited-Coins\bin\Debug\05.Representing-a-Sum-with-Limited-Coins.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\05.Representing-a-Sum-with-Limited-Coins\bin\Debug\05.Representing-a-Sum-with-Limited-Coins.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\05.Representing-a-Sum-with-Limited-Coins\bin\Debug\05.Representing-a-Sum-with-Limited-Coins.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\05.Representing-a-Sum-with-Limited-Coins\obj\Debug\05.Representing-a-Sum-with-Limited-Coins.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\05.Representing-a-Sum-with-Limited-Coins\obj\Debug\05.Representing-a-Sum-with-Limited-Coins.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\05.Representing-a-Sum-with-Limited-Coins\obj\Debug\05.Representing-a-Sum-with-Limited-Coins.pdb

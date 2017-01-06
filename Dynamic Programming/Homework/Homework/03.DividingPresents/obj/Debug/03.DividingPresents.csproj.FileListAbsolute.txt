@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\03.DividingPresents\bin\Debug\03.DividingPresents.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\03.DividingPresents\bin\Debug\03.DividingPresents.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\03.DividingPresents\bin\Debug\03.DividingPresents.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\03.DividingPresents\obj\Debug\03.DividingPresents.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\03.DividingPresents\obj\Debug\03.DividingPresents.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Dynamic Programming\Homework\Homework\03.DividingPresents\obj\Debug\03.DividingPresents.pdb

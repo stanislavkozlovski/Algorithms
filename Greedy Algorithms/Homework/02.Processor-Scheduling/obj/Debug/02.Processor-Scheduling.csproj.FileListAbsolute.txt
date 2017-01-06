@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\02.Processor-Scheduling\bin\Debug\02.Processor-Scheduling.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\02.Processor-Scheduling\bin\Debug\02.Processor-Scheduling.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\02.Processor-Scheduling\bin\Debug\02.Processor-Scheduling.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\02.Processor-Scheduling\obj\Debug\02.Processor-Scheduling.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\02.Processor-Scheduling\obj\Debug\02.Processor-Scheduling.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\02.Processor-Scheduling\obj\Debug\02.Processor-Scheduling.pdb

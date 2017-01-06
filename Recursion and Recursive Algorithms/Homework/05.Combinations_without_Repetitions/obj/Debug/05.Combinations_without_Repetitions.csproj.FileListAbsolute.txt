@@ -1,5 +1,0 @@
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\05.Combinations_without_Repetitions\bin\Debug\05.Combinations_without_Repetitions.exe.config
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\05.Combinations_without_Repetitions\bin\Debug\05.Combinations_without_Repetitions.exe
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\05.Combinations_without_Repetitions\bin\Debug\05.Combinations_without_Repetitions.pdb
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\05.Combinations_without_Repetitions\obj\Debug\05.Combinations_without_Repetitions.exe
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\05.Combinations_without_Repetitions\obj\Debug\05.Combinations_without_Repetitions.pdb

@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\01.Parenthesis\bin\Debug\01.Parenthesis.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\01.Parenthesis\bin\Debug\01.Parenthesis.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\01.Parenthesis\bin\Debug\01.Parenthesis.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\01.Parenthesis\obj\Debug\01.Parenthesis.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\01.Parenthesis\obj\Debug\01.Parenthesis.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\01.Parenthesis\obj\Debug\01.Parenthesis.csprojResolveAssemblyReference.cache

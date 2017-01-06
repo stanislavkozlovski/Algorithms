@@ -1,6 +1,0 @@
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\04.Line-Inverter\bin\Debug\04.Line-Inverter.exe.config
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\04.Line-Inverter\bin\Debug\04.Line-Inverter.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\04.Line-Inverter\bin\Debug\04.Line-Inverter.pdb
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\04.Line-Inverter\obj\Debug\04.Line-Inverter.csprojResolveAssemblyReference.cache
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\04.Line-Inverter\obj\Debug\04.Line-Inverter.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\04.Line-Inverter\obj\Debug\04.Line-Inverter.pdb

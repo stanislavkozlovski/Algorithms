@@ -1,9 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.dll
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\bin\Debug\DFS-Graph-Traversal.Tests.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\bin\Debug\Graph-Traversal.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\obj\Debug\2. DFS-Graph-Traversal.Tests.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.dll
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\DFS-Graph-Traversal.Tests\obj\Debug\DFS-Graph-Traversal.Tests.pdb

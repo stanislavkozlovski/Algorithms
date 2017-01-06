@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\04.Fast-and-Furios\bin\Debug\04.Fast-and-Furios.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\04.Fast-and-Furios\bin\Debug\04.Fast-and-Furios.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\04.Fast-and-Furios\bin\Debug\04.Fast-and-Furios.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\04.Fast-and-Furios\obj\Debug\04.Fast-and-Furious.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\04.Fast-and-Furios\obj\Debug\04.Fast-and-Furios.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Live Exam\Live Exam Prep\04.Fast-and-Furios\obj\Debug\04.Fast-and-Furios.pdb

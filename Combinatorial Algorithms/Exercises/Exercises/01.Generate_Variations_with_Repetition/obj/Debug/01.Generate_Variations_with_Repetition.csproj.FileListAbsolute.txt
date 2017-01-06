@@ -1,6 +1,0 @@
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Exercises\Exercises\01.Generate_Variations_with_Repetition\bin\Debug\01.Generate_Variations_with_Repetition.exe.config
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Exercises\Exercises\01.Generate_Variations_with_Repetition\bin\Debug\01.Generate_Variations_with_Repetition.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Exercises\Exercises\01.Generate_Variations_with_Repetition\bin\Debug\01.Generate_Variations_with_Repetition.pdb
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Exercises\Exercises\01.Generate_Variations_with_Repetition\obj\Debug\01.Generate_Variations_with_Repetition.csprojResolveAssemblyReference.cache
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Exercises\Exercises\01.Generate_Variations_with_Repetition\obj\Debug\01.Generate_Variations_with_Repetition.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Exercises\Exercises\01.Generate_Variations_with_Repetition\obj\Debug\01.Generate_Variations_with_Repetition.pdb

@@ -1,9 +1,0 @@
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\bin\Debug\04.Tower_of_Hanoi.exe.config
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\bin\Debug\04.Tower_of_Hanoi.exe
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\bin\Debug\04.Tower_of_Hanoi.pdb
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\obj\Debug\04.Tower_of_Hanoi.csprojResolveAssemblyReference.cache
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\obj\Debug\04.Tower_of_Hanoi.exe
-D:\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\obj\Debug\04.Tower_of_Hanoi.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\bin\Debug\04.Tower_of_Hanoi.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\obj\Debug\04.Tower_of_Hanoi.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Recursion and Recursive Algorithms\Homework\04.Tower_of_Hanoi\obj\Debug\04.Tower_of_Hanoi.pdb

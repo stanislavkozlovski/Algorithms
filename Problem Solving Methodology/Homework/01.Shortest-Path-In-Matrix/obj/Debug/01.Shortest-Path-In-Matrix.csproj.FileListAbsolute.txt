@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\01.Shortest-Path-In-Matrix\bin\Debug\01.Shortest-Path-In-Matrix.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\01.Shortest-Path-In-Matrix\bin\Debug\01.Shortest-Path-In-Matrix.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\01.Shortest-Path-In-Matrix\bin\Debug\01.Shortest-Path-In-Matrix.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\01.Shortest-Path-In-Matrix\obj\Debug\01.Shortest-Path-In-Matrix.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\01.Shortest-Path-In-Matrix\obj\Debug\01.Shortest-Path-In-Matrix.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\01.Shortest-Path-In-Matrix\obj\Debug\01.Shortest-Path-In-Matrix.pdb

@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\04.Best-Lectures-Schedule\bin\Debug\04.Best-Lectures-Schedule.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\04.Best-Lectures-Schedule\obj\Debug\04.Best-Lectures-Schedule.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\04.Best-Lectures-Schedule\bin\Debug\04.Best-Lectures-Schedule.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\04.Best-Lectures-Schedule\bin\Debug\04.Best-Lectures-Schedule.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\04.Best-Lectures-Schedule\obj\Debug\04.Best-Lectures-Schedule.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Greedy Algorithms\Homework\04.Best-Lectures-Schedule\obj\Debug\04.Best-Lectures-Schedule.pdb

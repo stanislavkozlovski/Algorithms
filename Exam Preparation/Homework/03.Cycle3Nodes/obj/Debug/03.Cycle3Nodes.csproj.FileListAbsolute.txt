@@ -1,6 +1,0 @@
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\03.Cycle3Nodes\bin\Debug\03.Cycle3Nodes.exe.config
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\03.Cycle3Nodes\bin\Debug\03.Cycle3Nodes.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\03.Cycle3Nodes\bin\Debug\03.Cycle3Nodes.pdb
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\03.Cycle3Nodes\obj\Debug\03.Cycle3Nodes.csprojResolveAssemblyReference.cache
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\03.Cycle3Nodes\obj\Debug\03.Cycle3Nodes.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Homework\03.Cycle3Nodes\obj\Debug\03.Cycle3Nodes.pdb

@@ -1,6 +1,0 @@
-G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.exe.config
-G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\Dijkstra.exe
-G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\Dijkstra.pdb
-G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.exe
-G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\bin\Debug\Dijkstra.pdb
-G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\DijkstraPriorityQueue\obj\Debug\DijkstraPriorityQueue.csprojResolveAssemblyReference.cache

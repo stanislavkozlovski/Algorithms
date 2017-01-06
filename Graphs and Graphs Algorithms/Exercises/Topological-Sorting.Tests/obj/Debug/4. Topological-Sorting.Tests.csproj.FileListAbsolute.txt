@@ -1,9 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.Tests.dll
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.Tests.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\obj\Debug\4. Topological-Sorting.Tests.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\obj\Debug\Topological-Sorting-DFS.Tests.dll
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Graphs and Graphs Algorithms\Topological-Sorting.Tests\obj\Debug\Topological-Sorting-DFS.Tests.pdb

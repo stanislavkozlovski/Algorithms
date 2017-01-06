@@ -1,5 +1,0 @@
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\03.IterativeCombinations\bin\Debug\03.IterativeCombinations.exe.config
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\03.IterativeCombinations\bin\Debug\03.IterativeCombinations.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\03.IterativeCombinations\bin\Debug\03.IterativeCombinations.pdb
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\03.IterativeCombinations\obj\Debug\03.IterativeCombinations.exe
-C:\Users\famil\Dropbox\SoftUni\Algorithms April 2016\Combinatorial Algorithms\Homework\Homework\03.IterativeCombinations\obj\Debug\03.IterativeCombinations.pdb

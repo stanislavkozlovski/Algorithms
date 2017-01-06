@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\02.Rectangle-Intersection\bin\Debug\02.Rectangle-Intersection.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\02.Rectangle-Intersection\bin\Debug\02.Rectangle-Intersection.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\02.Rectangle-Intersection\bin\Debug\02.Rectangle-Intersection.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\02.Rectangle-Intersection\obj\Debug\02.Rectangle-Intersection.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\02.Rectangle-Intersection\obj\Debug\02.Rectangle-Intersection.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Problem Solving Methodology\Homework\02.Rectangle-Intersection\obj\Debug\02.Rectangle-Intersection.csprojResolveAssemblyReference.cache

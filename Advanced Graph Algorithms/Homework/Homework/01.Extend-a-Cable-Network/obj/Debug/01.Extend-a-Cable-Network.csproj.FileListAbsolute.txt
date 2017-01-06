@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\01.Extend-a-Cable-Network\bin\Debug\01.Extend-a-Cable-Network.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\01.Extend-a-Cable-Network\bin\Debug\01.Extend-a-Cable-Network.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\01.Extend-a-Cable-Network\bin\Debug\01.Extend-a-Cable-Network.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\01.Extend-a-Cable-Network\obj\Debug\01.Extend-a-Cable-Network.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\01.Extend-a-Cable-Network\obj\Debug\01.Extend-a-Cable-Network.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\01.Extend-a-Cable-Network\obj\Debug\01.Extend-a-Cable-Network.pdb

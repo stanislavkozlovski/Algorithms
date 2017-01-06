@@ -1,6 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\02.Modified-Kruskal-Algorithm\bin\Debug\02.Modified-Kruskal-Algorithm.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\02.Modified-Kruskal-Algorithm\bin\Debug\02.Modified-Kruskal-Algorithm.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\02.Modified-Kruskal-Algorithm\bin\Debug\02.Modified-Kruskal-Algorithm.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\02.Modified-Kruskal-Algorithm\obj\Debug\02.Modified-Kruskal-Algorithm.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\02.Modified-Kruskal-Algorithm\obj\Debug\02.Modified-Kruskal-Algorithm.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Homework\Homework\02.Modified-Kruskal-Algorithm\obj\Debug\02.Modified-Kruskal-Algorithm.pdb
