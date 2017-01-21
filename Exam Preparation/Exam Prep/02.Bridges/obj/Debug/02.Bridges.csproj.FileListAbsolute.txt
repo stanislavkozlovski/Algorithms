@@ -1,5 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Exam Prep\02.Bridges\bin\Debug\02.Bridges.exe.config
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Exam Prep\02.Bridges\bin\Debug\02.Bridges.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Exam Prep\02.Bridges\bin\Debug\02.Bridges.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Exam Prep\02.Bridges\obj\Debug\02.Bridges.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Exam Preparation\Exam Prep\02.Bridges\obj\Debug\02.Bridges.pdb

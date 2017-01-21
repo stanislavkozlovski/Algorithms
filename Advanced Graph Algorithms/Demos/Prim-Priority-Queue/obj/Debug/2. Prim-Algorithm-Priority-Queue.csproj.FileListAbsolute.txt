@@ -1,5 +1,0 @@
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Demos\Prim-Priority-Queue\bin\Debug\PrimAlgrithm.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Demos\Prim-Priority-Queue\bin\Debug\PrimAlgrithm.pdb
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Demos\Prim-Priority-Queue\obj\Debug\2. Prim-Algorithm-Priority-Queue.csprojResolveAssemblyReference.cache
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Demos\Prim-Priority-Queue\obj\Debug\PrimAlgrithm.exe
-D:\Deepweb\Dropbox\SoftUni\Algorithms April 2016\Advanced Graph Algorithms\Demos\Prim-Priority-Queue\obj\Debug\PrimAlgrithm.pdb
