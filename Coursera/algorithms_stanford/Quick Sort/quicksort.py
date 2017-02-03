@@ -63,8 +63,31 @@ def _non_random_quick_sort(array, start, end):
     _non_random_quick_sort(array, pivot_idx+1, end)  # do the same for the right part
 
 
+def _non_random_quick_sort_end_pivot(array, start, end):
+    if end <= start + 1:
+        return
+    pivot_idx = end
+    pivot_item = array[pivot_idx]
+    i, j = end - 1, end - 1
+    while j >= start:
+        if array[j] > pivot_item:
+            # swap with i
+            array[i], array[j] = array[j], array[i]
+            # swap with pivot
+            array[i], array[pivot_idx] = array[pivot_idx], array[i]
+            pivot_idx = i
+            i = pivot_idx - 1
+        j -= 1
+    _non_random_quick_sort_end_pivot(array, start, pivot_idx - 1)
+    _non_random_quick_sort_end_pivot(array, pivot_idx, end)
+
+
 def non_random_quick_sort(array: list):
     _non_random_quick_sort(array, 0, len(array)-1)
     return array
 
-print(non_random_quick_sort([3, 3, 25, 4, -1120, 1, 2, -3, -10, 250, -402]))
+def non_random_quick_sort_end_pivot(array: list):
+    _non_random_quick_sort_end_pivot(array, 0, len(array)-1)
+    return array
+
+print(non_random_quick_sort_end_pivot([3, 3, 25, 4, -1120, 1, 2, -3, -10, 250, -402]))
