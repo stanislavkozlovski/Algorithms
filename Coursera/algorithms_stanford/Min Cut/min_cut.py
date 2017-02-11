@@ -2,9 +2,23 @@
 Given a graph, split the nodes into two groups, such that the edges between said groups are minimal.
 """
 import random
+import math
+from copy import deepcopy
 
-def build_graph(text_file_name):
-    # unique_edges = set()  # for easy checking if an edge already exists
+def ncr(n,r):
+    """ Easily get the number for N choose 2"""
+    f = math.factorial
+    return int(f(n) / f(r) / f(n-r))
+
+
+def build_graph(text_file_name) -> ({str}, [(str, str)]):
+    """
+    Builds a graph, comprising of a set() holding the nodes in the graph and a list holding the edges in the form
+    of tuples
+    :return:
+        1. The set holding the nodes
+        2. The list holding the edges in the form of tuples
+    """
     edges = []  # actual edges will be stored here
     nodes = set()
 
@@ -20,9 +34,9 @@ def build_graph(text_file_name):
                     # edge has already been added
                     continue
                 edges.append((main_node, adj_node))
-    print(nodes)
-    print(edges)
     return nodes, edges
+
+
 class Node:
     def __init__(self, name):
         self.name: int = name
@@ -56,8 +70,6 @@ class Node:
             if self in edge:
                 # loop edge, ignore it
                 overall_edges[edge_index] = None
-                print(edge)
-                print(overall_edges)
                 if edge_index in self.edge_indexes:
                     self.edge_indexes.remove(edge_index)
                 edge_count -= 1
@@ -74,9 +86,6 @@ class Node:
         return edge_count
 
 
-
-
-
 def build_nodes(nodes: set()) -> {str: Node}:
     return {node: Node(name=node) for node in nodes}
 
@@ -88,9 +97,6 @@ def add_edges_to_nodes(nodes: {str: Node}, edges: [(str, str)]):
         nodes[node_a].add_edge_index(idx)
         nodes[node_b].add_edge_index(idx)
         edges[idx] = (nodes[node_a], nodes[node_b])
-
-
-
 
 
 def karger(nodes, edges):
@@ -124,14 +130,27 @@ def select_random_edge(edges):
         edge = edges[random.randint(0, len(edges) - 1)]
     return edge
 
-nodes, edges = build_graph('test_graph.txt')
-nodes: {str: Node} = build_nodes(nodes)
-add_edges_to_nodes(nodes, edges)
-print(edges)
-karger(nodes, edges)
-print("NOODES")
-print(nodes)
-print(f"EDGE COUNT: {len(list(filter(lambda x: x is not None, edges)))}")
-print(edges)
-print(list(nodes.values())[0])
-print(list(nodes.values())[1])
+
+def main():
+    import sys
+    read_nodes, read_edges = build_graph('real_graph.txt')
+    nodes_count = len(read_nodes)
+    NUMBER_OF_ITERATIONS = nodes_count
+    min_cut = sys.maxsize
+    print(NUMBER_OF_ITERATIONS)
+
+    for _ in range(NUMBER_OF_ITERATIONS):
+        edges = deepcopy(read_edges)  # copy the edges so we don't have problems with references
+        nodes: {str: Node} = build_nodes(read_nodes)
+        add_edges_to_nodes(nodes, edges)
+
+        karger(nodes, edges)
+
+        edges_count = len(list(filter(lambda x: x is not None, edges)))
+        if edges_count < min_cut:
+            min_cut = edges_count
+
+    print(f'The min cut of the given graph is {min_cut}!')
+
+if __name__ == '__main__':
+    main()
