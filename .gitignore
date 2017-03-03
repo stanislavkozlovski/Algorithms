@@ -14,6 +14,7 @@
 *.userprefs
 
 # Build results
+[Tt]arget/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
