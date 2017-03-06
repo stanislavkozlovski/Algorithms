@@ -97,6 +97,7 @@ def inverse_tree(parents: dict, node):
 
     parents[parent] = node
 
+
 def kruskal(edges: [UndirectedEdge]):
     connected_nodes = set()
     used_edges = []
@@ -125,6 +126,7 @@ def kruskal(edges: [UndirectedEdge]):
             used_edges.append(edge)
 
     return used_edges
+
 
 def build_output_string(used_edges: [UndirectedEdge]) -> str:
     """ Build the given output string"""

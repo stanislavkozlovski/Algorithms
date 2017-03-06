@@ -77,12 +77,7 @@ while potential_edges:
     if budget < potential_edge.weight:
         break
 
-    node_to_add = None
-    if potential_edge.node_a not in added_nodes and potential_edge.node_b in added_nodes:
-        node_to_add = potential_edge.node_a
-    elif potential_edge.node_b not in added_nodes and potential_edge.node_a in added_nodes:
-        node_to_add = potential_edge.node_b
-
+    node_to_add = potential_edge.node_a if potential_edge.node_a not in added_nodes else potential_edge.node_b
     added_nodes.add(node_to_add)
     potential_edges.extend([edge for edge in graph[node_to_add]  # Only add edges that make sense
                             if edge.node_a not in added_nodes

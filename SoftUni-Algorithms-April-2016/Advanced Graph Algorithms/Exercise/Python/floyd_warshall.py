@@ -20,4 +20,3 @@ for k in range(len(graph)):
             new_distance = distances[i][k] + distances[k][j]
             if new_distance < distances[i][j]:
                 distances[i][j] = new_distance
-print(distances<)
