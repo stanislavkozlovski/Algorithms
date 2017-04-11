@@ -4,9 +4,10 @@ Complexities:
     add: O(log(n))
     extract_min: O(log(n))
     modify_element: O(n + log(n))
-    re_order_element: O(N + log(n))
+    re_order_element: O(log(n))
+    
+Requires usage of a class object, because it stores the PQ index on the object!
 """
-
 
 class PriorityQueue:
     def __init__(self, elements=None):
@@ -30,6 +31,7 @@ class PriorityQueue:
         """ Add the value at the end and heapify up from there """
         self._elements.append(value)
         new_value_idx = len(self._elements) - 1
+        value.__pq_idx = new_value_idx
         self._heapify_up(new_value_idx)
         self.count += 1
 
@@ -39,6 +41,7 @@ class PriorityQueue:
         last_idx = len(self._elements) - 1
 
         self._elements[0] = self._elements[last_idx]
+        self._elements[0].__pq_idx = 0
         self._elements.pop()
         self._heapify_down(0)
         self.count -= 1
@@ -52,6 +55,8 @@ class PriorityQueue:
         if self._elements[parent_idx] > self._elements[idx]:
             # swap
             self._elements[parent_idx], self._elements[idx] = self._elements[idx], self._elements[parent_idx]
+            self._elements[parent_idx].__pq_idx = parent_idx
+            self._elements[idx].__pq_idx = idx
             # update indices
             self._heapify_up(parent_idx)
 
@@ -74,6 +79,8 @@ class PriorityQueue:
 
             # swap
             self._elements[idx], self._elements[min_idx] = self._elements[min_idx], self._elements[idx]
+            self._elements[idx].__pq_idx = idx
+            self._elements[min_idx].__pq_idx = min_idx
             self._heapify_down(min_idx)
 
     def modify_element(self, old_value, new_value):
@@ -93,8 +100,9 @@ class PriorityQueue:
         Heapifies the given element up.
         This is typically done when the element has been changed, which, if you're calling this method,
         should be a reference type and should have been changed outside the PriorityQueue
+        O(logN)
         """
-        idx = self._elements.index(value)
+        idx = value.__pq_idx
         self._heapify_up(idx)
 
     def re_order_increased_element(self, value):
@@ -102,6 +110,8 @@ class PriorityQueue:
         Heapifies the given element down.
         This is typically done when the element has been changed, which, if you're calling this method,
         should be a reference type and should have been changed outside the PriorityQueue
+        O(logN)
         """
-        idx = self._elements.index(value)
+        idx = value.__pq_idx
         self._heapify_down(idx)
+
