@@ -23,8 +23,8 @@ Then, we iterate per col (bottom row to top row), each cell representing the amo
  We also add a new spot, subtracting our number from the overall sum, like we've only removed 1 number from it.
 """
 
-nums =[ 5, 4, 6, 8, 7, 2, 3 ]
-print(sum(nums))
+nums =[ 11, 10, 8, 6, 8, 11, 1, 10, 2, 3, 8, 3, 8, 12, 11, 1, 7, 5, 5, 12, 9, 4, 10, 3, 3, 3, 8, 8, 8, 6, 7, 7, 7, 6, 4, 2, 5, 8, 11, 10, 10, 10, 12, 9, 2, 3, 9, 12, 7, 6, 11, 8, 9, 9, 10, 3, 3, 5, 2, 10, 10, 9, 4, 9, 6, 11, 10, 2, 6, 1, 4, 7, 10, 3, 4, 3, 9, 4, 3, 8, 1, 1, 3 ]
+
 # create matrix with rows as sums and cols as nums
 matrix = build_matrix(sum(nums), len(nums))
 
@@ -38,6 +38,7 @@ for col_idx in range(1, len(nums)):
     number = nums[col_idx]
     if number <= 0:
         continue
+    to_add = []
 
     for row_idx in reversed(range(len(matrix))):
         # go through the rows reversed (from max_sum to 0)
@@ -45,8 +46,6 @@ for col_idx in range(1, len(nums)):
         # copy over the last column's values if we have none
         if matrix[row_idx][col_idx] is None:
             matrix[row_idx][col_idx] = matrix[row_idx][col_idx-1]
-
-        to_add = []
 
         if matrix[row_idx][col_idx] is not None:  # if the sum is reachable
             # calc new value with the sum
@@ -61,8 +60,9 @@ for col_idx in range(1, len(nums)):
                     to_add.append((new_value, col_idx, nums_for_new_value))
                     # matrix[new_value][col_idx] = matrix[row_idx][col_idx] + 1
 
-        # add the values after we've traversed the column
-        for row, col, new in to_add:
+    # add the values after we've traversed the column
+    for row, col, new in to_add:
+        if matrix[row][col] is None or (matrix[row][col] is not None and matrix[row][col] > new):
             matrix[row][col] = new
 
     # add the reachable sum from flipping only the current number
