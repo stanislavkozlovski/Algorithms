@@ -121,27 +121,45 @@ class Node:
     def __init__(self, value, frequency):
         self.value = value
         self.frequency = frequency
+        self.parent = None
+        self.left = None
+        self.right = None
 
     def get_weight(self):
         return self.frequency
+
+    def __str__(self):
+        return str(self.value)
+
+    def __repr__(self):
+        return self.__str__()
 
 
 class NonLeafNode(Node):
     def __init__(self, frequency, left, right):
         super().__init__(None, frequency)
         self.left = left
+        self.left.parent = self
         self.right = right
+        self.right.parent = self
+        self.parent = None
 
 
 class SubTree:
     def __init__(self, root):
         self.root = root
+        self.cache_is_valid = False
+        self.cache = {}
+        self.current_bits = []
 
     def merge(self, other_tree):
         """
         Merges the current tree with another
         """
+        if isinstance(other_tree, SubTree):
+            other_tree = other_tree.root
         new_root = NonLeafNode(other_tree.get_weight() + self.get_weight(), left=other_tree, right=self.root)
+        self.cache_is_valid = False
         self.root = new_root
 
     def decode_word(self, binary_string: str):
@@ -168,6 +186,61 @@ class SubTree:
             whole_word.append(curr_node.value)
             curr_node = self.root
         return whole_word
+
+    def encode_word(self, word: str):
+        encoded_word = []
+        if not self.cache_is_valid:
+            self.cache_words()
+
+        for character in word:
+            if character not in self.cache:
+                raise Exception("Cache was not maintained properly or the character is not in the Tree!")
+            encoded_word.append(self.cache[character])
+
+        return ''.join(encoded_word)
+
+    def cache_words(self):
+        """
+        Fill the self.cache dictionary, holding the encoded bits for each character
+         Traverse the tree from left to right
+        """
+        # reset the cache and current_bits
+        self.cache = {}
+        self.current_bits = []
+        self._cache_nodes(self.root)
+        self.cache_is_valid = True
+
+    def _cache_nodes(self, node):
+        """
+        Keeps track and modifies the bits at each node
+        Traverses every node and saves its bit representation in the cache
+        """
+        if node.left is not None:
+            self.current_bits.append('0')
+            self._cache_nodes(node.left)
+            self.current_bits.pop()
+
+        if node.value is not None:
+            self.cache[node.value] = ''.join(self.current_bits)
+
+        if node.right is not None:
+            self.current_bits.append('1')
+            self._cache_nodes(node.right)
+            self.current_bits.pop()
+
+    def _traverse_left(self, node, current_bits) -> Node:
+        leftest_node = node
+        while isinstance(leftest_node, NonLeafNode):
+            current_bits.append('0')
+            leftest_node = leftest_node.left
+        return leftest_node
+
+    def _traverse_right(self, node, current_bits) -> Node:
+        rightest_node = node
+        while isinstance(rightest_node, NonLeafNode):
+            current_bits.append('1')
+            rightest_node = rightest_node.right
+        return rightest_node
 
     def get_weight(self):
         return self.root.frequency
@@ -196,4 +269,7 @@ while len(sorted_words) > 1:
     # Add the merged tree back into the priority queue
     sorted_words.add(first_tree)
 test = sorted_words.extract_min()
+test.cache_words()
+print(test.cache)
+print(test.encode_word('ABE'))
 print(test.decode_word('01101010100'))
