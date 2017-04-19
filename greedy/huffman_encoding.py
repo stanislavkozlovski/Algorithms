@@ -1,4 +1,49 @@
 """
+A fairly-well functioning Huffman Tree, which uses cache to quickly encode a word
+Operations:
+    Encode Word: O(1) Amortized, Some calls will traverse the whole tree O(N) to fill the cache
+    Decode Word: O(D*N), where D is the depth of the deepest character of the word and N is the length of the word.
+                 This is because it traverses the tree until it finds the given character
+                 A cache here would be a good idea as well
+
+
+Could use some refactoring
+
+TODOs:
+    - Cache for word decoding
+    - Add count of huffman tree
+    - Add option to not discriminate between capital and lower-case letters
+    - Replace isinstance() calls and improve class structure for faster performance
+        (Currently distinguishes between leaf and non-leaf nodes by class, which is a bad idea performance-wise)
+    - More tests
+"""
+
+
+def main():
+    words = [HuffmanTree(root=Node(value='B', frequency=2)), HuffmanTree(root=Node(value='E', frequency=2)),
+             HuffmanTree(root=Node(value='A', frequency=3)), HuffmanTree(root=Node(value='C', frequency=6)),
+             HuffmanTree(root=Node(value='F', frequency=6)), HuffmanTree(root=Node(value='D', frequency=8))]
+
+    sorted_words = PriorityQueue(elements=words)
+
+    # Huffman Encoding Algorithm
+    while len(sorted_words) > 1:
+        # Take the both trees with the lowest frequency
+        first_tree = sorted_words.extract_min()
+        second_tree = sorted_words.extract_min()
+        # Merge them
+        first_tree.merge(second_tree)
+        # first_tree.merge(second_tree)
+        # Add the merged tree back into the priority queue
+        sorted_words.add(first_tree)
+    test = sorted_words.extract_min()
+    test.cache_words()
+    print(test.cache)
+    print(test.encode_word('ABE'))
+    print(test.decode_word('01101010100'))
+
+
+"""
 A PriorityQueue implemented with a binary heap with the additional ability to modify a given element
 Complexities:
     add: O(log(n))
@@ -8,8 +53,6 @@ Complexities:
 
 Requires usage of a class object, because it stores the PQ index on the object!
 """
-
-
 class PriorityQueue:
     def __init__(self, elements=None):
         self._elements = []
@@ -145,7 +188,7 @@ class NonLeafNode(Node):
         self.parent = None
 
 
-class SubTree:
+class HuffmanTree:
     def __init__(self, root):
         self.root = root
         self.cache_is_valid = False
@@ -156,7 +199,7 @@ class SubTree:
         """
         Merges the current tree with another
         """
-        if isinstance(other_tree, SubTree):
+        if isinstance(other_tree, HuffmanTree):
             other_tree = other_tree.root
         new_root = NonLeafNode(other_tree.get_weight() + self.get_weight(), left=other_tree, right=self.root)
         self.cache_is_valid = False
@@ -170,7 +213,7 @@ class SubTree:
         whole_word = []
         curr_node = self.root
         for char in binary_string:
-            if isinstance(curr_node, SubTree):
+            if isinstance(curr_node, HuffmanTree):
                 curr_node = curr_node.root
             if not isinstance(curr_node, NonLeafNode):
                 whole_word.append(curr_node.value)
@@ -180,12 +223,12 @@ class SubTree:
                 curr_node = curr_node.right
             else:  # go left
                 curr_node = curr_node.left
-        if isinstance(curr_node, SubTree):
+        if isinstance(curr_node, HuffmanTree):
             curr_node = curr_node.root
         if not isinstance(curr_node, NonLeafNode):
             whole_word.append(curr_node.value)
             curr_node = self.root
-        return whole_word
+        return ''.join(whole_word)
 
     def encode_word(self, word: str):
         encoded_word = []
@@ -251,25 +294,5 @@ class SubTree:
     def __ge__(self, other):
         return self.get_weight() >= other.get_weight()
 
-
-words = [SubTree(root=Node(value='B', frequency=2)), SubTree(root=Node(value='E', frequency=2)),
-         SubTree(root=Node(value='A', frequency=3)), SubTree(root=Node(value='C', frequency=6)),
-         SubTree(root=Node(value='F', frequency=6)), SubTree(root=Node(value='D', frequency=8))]
-
-sorted_words = PriorityQueue(elements=words)
-
-# Huffman Encoding Algorithm
-while len(sorted_words) > 1:
-    # Take the both trees with the lowest frequency
-    first_tree = sorted_words.extract_min()
-    second_tree = sorted_words.extract_min()
-    # Merge them
-    first_tree.merge(second_tree)
-    # first_tree.merge(second_tree)
-    # Add the merged tree back into the priority queue
-    sorted_words.add(first_tree)
-test = sorted_words.extract_min()
-test.cache_words()
-print(test.cache)
-print(test.encode_word('ABE'))
-print(test.decode_word('01101010100'))
+if __name__ == '__main__':
+    main()
