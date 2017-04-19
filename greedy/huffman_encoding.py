@@ -144,6 +144,31 @@ class SubTree:
         new_root = NonLeafNode(other_tree.get_weight() + self.get_weight(), left=other_tree, right=self.root)
         self.root = new_root
 
+    def decode_word(self, binary_string: str):
+        # TODO: Refactor ? :)
+        if not isinstance(self.root, NonLeafNode):
+            return self.root.value
+
+        whole_word = []
+        curr_node = self.root
+        for char in binary_string:
+            if isinstance(curr_node, SubTree):
+                curr_node = curr_node.root
+            if not isinstance(curr_node, NonLeafNode):
+                whole_word.append(curr_node.value)
+                curr_node = self.root
+
+            if char == '1':  # Go right
+                curr_node = curr_node.right
+            else:  # go left
+                curr_node = curr_node.left
+        if isinstance(curr_node, SubTree):
+            curr_node = curr_node.root
+        if not isinstance(curr_node, NonLeafNode):
+            whole_word.append(curr_node.value)
+            curr_node = self.root
+        return whole_word
+
     def get_weight(self):
         return self.root.frequency
 
@@ -154,21 +179,21 @@ class SubTree:
         return self.get_weight() >= other.get_weight()
 
 
-
 words = [SubTree(root=Node(value='B', frequency=2)), SubTree(root=Node(value='E', frequency=2)),
          SubTree(root=Node(value='A', frequency=3)), SubTree(root=Node(value='C', frequency=6)),
          SubTree(root=Node(value='F', frequency=6)), SubTree(root=Node(value='D', frequency=8))]
 
 sorted_words = PriorityQueue(elements=words)
 
-# Huffman Algorithm
+# Huffman Encoding Algorithm
 while len(sorted_words) > 1:
     # Take the both trees with the lowest frequency
     first_tree = sorted_words.extract_min()
     second_tree = sorted_words.extract_min()
     # Merge them
     first_tree.merge(second_tree)
+    # first_tree.merge(second_tree)
     # Add the merged tree back into the priority queue
     sorted_words.add(first_tree)
 test = sorted_words.extract_min()
-print('a')
+print(test.decode_word('01101010100'))
