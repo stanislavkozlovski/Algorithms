@@ -20,6 +20,8 @@ def calc_freq_sum(frequencies: list, start_idx: int, end_idx: int):
     """ Get the sum of frequencies from an index to the end index INCLUDING """
     return sum(frequencies[start_idx:end_idx+1])
 
+# nums = [1,2,3,4,5,6,7]
+# frequencies = [0.05, 0.4, 0.08, 0.04, 0.1, 0.1, 0.23]
 nums = [1,2,3,4]
 frequencies = [2, 23, 73, 4]
 
