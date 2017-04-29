@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Coursera text files (they are big)
+Coursera/**/*.txt
+# Videos saved for offline viewing
+*.mp4
+
+# C++ bin files
+*.out
+
 # User-specific files
 *.suo
 *.user
