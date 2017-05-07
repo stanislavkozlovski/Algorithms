@@ -34,6 +34,20 @@ class PriorityQueue:
         value.__pq_idx = new_value_idx
         self._heapify_up(new_value_idx)
         self.count += 1
+        
+    def peek_min(self):
+        return self._elements[0]
+
+    def remove_element(self, element):
+        last_idx = len(self._elements) - 1
+
+        self._elements[element.__pq_idx] = self._elements[last_idx]
+        self._elements[last_idx].__pq_idx = element.__pq_idx
+        self._elements.pop()
+        self._heapify_down(element.__pq_idx)
+        self.count -= 1
+
+        return element
 
     def extract_min(self):
         """ Remove the min element by placing the last element on it's place and heapifying down"""
