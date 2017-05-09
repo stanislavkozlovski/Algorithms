@@ -13,7 +13,9 @@ class PriorityQueue:
     def __init__(self, elements=None):
         self._elements = []
         self.count = 0
-        if elements is not None and isinstance(elements, list):
+        if elements is not None:
+            if not isinstance(elements, list):
+                raise Exception('The elements parameter must be a list!')
             for el in elements:
                 self.add(el)
 
