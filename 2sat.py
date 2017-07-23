@@ -219,6 +219,7 @@ for node in sccs_by_topological_order:
         # set opposite literal's value to 0
         opp_var = fetch_variable(variables, literal.get_opposite_var())
         opp_var.boolean_value = 0
+        visited_sccs.add(opp_var)
 
 # Print out the final values
 for var_dict in variables.values():
